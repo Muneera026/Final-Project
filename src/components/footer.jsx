@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div id='footer'>
         <center>
-        <p>React Project by Akshay</p>
+        <p>React Project by Muneera</p>
         </center>
     </div>
   )
